@@ -6,8 +6,8 @@
 - High churn risk
 
 ## Segment 1: Medium Value Customers
-- متوسط tenure
-- متوسط spending
+ -tenure
+- spending
 - Potential to retain
 
 ## Segment 2: High Value Customers
